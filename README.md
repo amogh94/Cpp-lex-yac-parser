@@ -1,6 +1,6 @@
 # Cpp-lex-yac-parser
 
-This project was written in April 2015 as part of my "Compiler Design" course project at R V College of Engineering (Bangalore, India). I have just uploaded the code now/recently.
+This project was written in April 2015 as part of my "Compiler Design" course project at R V College of Engineering (Bangalore, India).
 
 The parser uses custom written grammar.
 
